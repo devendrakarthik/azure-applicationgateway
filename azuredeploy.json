@@ -136,8 +136,7 @@
        "allowedValues": [
           "Standard_A1",
           "Standard_D1",
-          "Standard_DS1_v2",
-          "Standard_D1_v2"
+          "Standard_DS1_v2"
        ],
        "metadata": {
           "description": "Azure VM size for backend VMs.  Not all sizes are available in all regions."
